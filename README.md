@@ -1,2 +1,2 @@
 # Placements
-List of negative placements
+List of placements
